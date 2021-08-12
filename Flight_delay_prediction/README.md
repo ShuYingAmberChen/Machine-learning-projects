@@ -8,4 +8,4 @@
 - Menglu He
 
 
-Final Project Notebook: https://github.com/UCB-w261/su21-team-team-11
+Final Project Notebook: https://github.com/ShuYingAmberChen/Machine-learning-projects/blob/main/Flight_delay_prediction/W261_SU21_FINAL_PROJECT_TEAM11.ipynb
